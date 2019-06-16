@@ -8,6 +8,7 @@
 - [Aula 2: Activity](#day2)
 - [Aula 3: Eventos](#day3)
 - [Aula 4: Realizar ações](#day4)
+- [Material](#material)
 
 ## <a name="instructors"></a>Instrutores
 
@@ -72,3 +73,10 @@
 2. Shared Prefereces
 3. OptionMenu
 4. Implementar intent e adicionar no projeto da calculadora
+
+## <a name="material"></a>Material
+
+- [Aula 1](./android-day-01.pdf)
+- [Aula 2](./android-day-02.pdf)
+- [Aula 3](./android-day-03.pdf)
+- [Aula 4](./android-day-04.pdf)
