@@ -1,20 +1,29 @@
 # Curso Android para Iniciantes 2014
 
-## Instrutores
+## Conteúdo
 
-| Nome             | GitHub           | Contato                        |
-| ---------------- | ---------------- | ------------------------------ |
-| Lana Mesquita    | @lanabia         | lanabeatriz.mesquita@gmail.com |
-| Cristiane Mayara | @cristianemayara | cris.mayara@gmail.com          |
-| Brunno Melo      | -                | brunnomelo@gmail.com           |
+- [Instrutores](#instructors)
+- [Informações](#info)
+- [Aula 1: Conhecendo o Android](#day1)
+- [Aula 2: Activity](#day2)
+- [Aula 3: Eventos](#day3)
+- [Aula 4: Realizar ações](#day4)
 
-## Informações
+## <a name="instructors"></a>Instrutores
+
+| Nome             | GitHub           | Contato                          |
+| ---------------- | ---------------- | -------------------------------- |
+| Lana Mesquita    | @lanabia         | <lanabeatriz.mesquita@gmail.com> |
+| Cristiane Mayara | @cristianemayara | <cris.mayara@gmail.com>          |
+| Brunno Melo      | -                | <brunnomelo@gmail.com>           |
+
+## <a name="info"></a>Informações
 
 - Local: IFCE, Fortaleza-CE
 - Horário: Aulas de 4h / 4 sábados
 - Sábados: 10 17 24 31 de maio
 
-### Aula 1: Conhecendo o Android
+## <a name="day1"></a>Aula 1: Conhecendo o Android
 
 1. Introdução ao Android
 2. Fontes de Estudo
@@ -30,7 +39,7 @@
 8. Toast
 9. Utilizando o adb
 
-### Aula 2: Activity
+## <a name="day2"></a>Aula 2: Activity
 
 1. LogCat
 2. Toast
@@ -45,7 +54,7 @@
    - Button
 8. Prática: Criar projeto da Calculadora
 
-### Aula 3: Eventos
+## <a name="day3"></a>Aula 3: Eventos
 
 1. LogCat
 2. Toast
@@ -57,7 +66,7 @@
 4. Qualifiers
 5. Prática
 
-### Aula 4: Realizar ações
+## <a name="day3"></a>Aula 4: Realizar ações
 
 1. Intent
 2. Shared Prefereces
