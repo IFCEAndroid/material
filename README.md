@@ -8,7 +8,6 @@
 - [Aula 2: Activity](#day2)
 - [Aula 3: Eventos](#day3)
 - [Aula 4: Realizar ações](#day4)
-- [Material](#material)
 
 ## <a name="instructors"></a>Instrutores
 
@@ -23,8 +22,10 @@
 - Local: IFCE, Fortaleza-CE
 - Horário: Aulas de 4h / 4 sábados
 - Sábados: 10 17 24 31 de maio
+- Facebook: [Curso Android CAET 2014](https://www.facebook.com/groups/CursoAndroidCAET2014/?ref=ts&fref=ts)
+- Drive: [http://goo.gl/uxq8Vl](http://goo.gl/uxq8Vl)
 
-## <a name="day1"></a>Aula 1: Conhecendo o Android
+## <a name="day1"></a>Aula 1: Conhecendo o Android [↓](./android-day-01.pdf)
 
 1. Introdução ao Android
 2. Fontes de Estudo
@@ -40,7 +41,7 @@
 8. Toast
 9. Utilizando o adb
 
-## <a name="day2"></a>Aula 2: Activity
+## <a name="day2"></a>Aula 2: Activity [↓](./android-day-02.pdf)
 
 1. LogCat
 2. Toast
@@ -55,7 +56,7 @@
    - Button
 8. Prática: Criar projeto da Calculadora
 
-## <a name="day3"></a>Aula 3: Eventos
+## <a name="day3"></a>Aula 3: Eventos [↓](./android-day-03.pdf)
 
 1. LogCat
 2. Toast
@@ -67,16 +68,9 @@
 4. Qualifiers
 5. Prática
 
-## <a name="day3"></a>Aula 4: Realizar ações
+## <a name="day3"></a>Aula 4: Realizar ações [↓](./android-day-04.pdf)
 
 1. Intent
 2. Shared Prefereces
 3. OptionMenu
 4. Implementar intent e adicionar no projeto da calculadora
-
-## <a name="material"></a>Material
-
-- [Aula 1](./android-day-01.pdf)
-- [Aula 2](./android-day-02.pdf)
-- [Aula 3](./android-day-03.pdf)
-- [Aula 4](./android-day-04.pdf)
